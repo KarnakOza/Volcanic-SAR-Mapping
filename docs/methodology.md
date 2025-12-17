@@ -12,7 +12,7 @@ This document explains the complete processing workflow used to detect volcanic 
 
 ---
 
-2. **SNAP Processing Workflow**
+2. **SNAP Processing Workflow** 
    
 3. **TOPS Split**  
    - IW3 Subswath  
