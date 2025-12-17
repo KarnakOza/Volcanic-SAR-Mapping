@@ -1,5 +1,6 @@
+---
 # Methodology: Volcanic Deformation Mapping Using Sentinel-1 SAR
-
+---
 This document explains the complete processing workflow used to detect volcanic deformation and eruption-related changes using Sentinel-1 Synthetic Aperture Radar (SAR) data.
 
 ---
@@ -53,7 +54,7 @@ This document explains the complete processing workflow used to detect volcanic 
 11. **Range Doppler Terrain Correction**  
     - Source band: Phase & Coherence 
     - Output: Phase_ifg_VV & coh_IW3_VV
-
+---
 
 
 
