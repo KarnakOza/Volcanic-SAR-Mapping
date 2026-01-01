@@ -7,6 +7,7 @@ Understanding and monitoring surface deformation is crucial for analyzing volcan
 
 This repository demonstrates the workflow for mapping volcanic deformation in Pico do Fogo an active stratovolcano lying on the islands of Fogo. using multi-temporal Sentinel-1 imagery. The analysis cover the period of 3rd Nov to 27th Nov 2014, aimed at identifying patterns of crustal movement and eruption-related deformation.
 
+![image alt](https://github.com/KarnakOza/Volcanic-SAR-Mapping/blob/3687b220763ffee9ec5d41fd72aa56e818f40c1b/Volcanic-result-1.png)
 
 Why DInSAR?
 
