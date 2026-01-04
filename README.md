@@ -9,7 +9,7 @@ This repository demonstrates the workflow for mapping volcanic deformation in Pi
 
 ![image alt](https://github.com/KarnakOza/Volcanic-SAR-Mapping/blob/3687b220763ffee9ec5d41fd72aa56e818f40c1b/Volcanic-result-1.png)
 
-Why DInSAR?
+# Why DInSAR?
 
 Differential Synthetic Aperture Radar Interferometry (DInSAR) is a powerful microwave remote sensing techniques that enables the detection of Earth surface displacement with centimeters to millimeters level accuracy across large spatial scales.
 
