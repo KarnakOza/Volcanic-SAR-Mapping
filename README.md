@@ -7,6 +7,8 @@ Volcanic Deformation &amp; Eruption mapping using Sentinel-1 SAR
 ![OpenScience](https://img.shields.io/badge/Open-Science-green)
 
 Overview
+
+
 This project focuses on the detection and mapping of volcanic eruption events using Sentinel-1 C-band Synthetic Aperture Radar (SAR) data.
 Understanding and monitoring surface deformation is crucial for analyzing volcanic activity, identifying underground pressure sources, and assessing associated geophysical processes.
 
